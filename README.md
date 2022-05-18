@@ -1,2 +1,5 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Este projeto é um estudo a fundo do Dart, abrange conceitos de:
+- POO
+- Async
+- Streams
+- Banco de Dados
