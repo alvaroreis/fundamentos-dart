@@ -1,5 +1,6 @@
-import 'package:dart_fundamentos/4_async/8_repositories/models/cidade.dart';
 import 'package:http/http.dart';
+
+import '../models/cidade.dart';
 
 class CidadeRepository {
   Future<Cidade> buscarCidade() async {

@@ -1,5 +1,6 @@
-import 'package:dart_fundamentos/4_async/8_repositories/models/user.dart';
 import 'package:http/http.dart';
+
+import '../models/user.dart';
 
 class UserRepository {
   Future<User?> findAllUsers(int id) async {
